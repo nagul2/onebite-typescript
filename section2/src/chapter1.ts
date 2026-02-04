@@ -30,7 +30,7 @@ let null1: null = null;
 // undefined 타입
 let unde1: undefined = undefined;
 
-// let numA: number = null;
+// let numA: number = null;w
 
 // 리터럴 타입
 let numA: 10 = 10;
